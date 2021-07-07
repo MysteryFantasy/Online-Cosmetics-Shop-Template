@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "image": "foundation.jpg",
+      "name": "Foundation",
+      "price": 399.99456789,
+      "article": "p1",
+      "available": false,
+      "category":"L'Oréal Paris"
+    },
+    {
+      "image": "contour.jpg",
+      "name": "Contour",
+      "price": 1099.99456789,
+      "article": "p2",
+      "available": true,
+      "category":"Smashbox"
+    },
+    {
+      "image": "eyeshadow.jpg",
+      "name": "Eyeshadow",
+      "price": 299.99456789,
+      "article": "p3",
+      "available": false,
+      "category": "M.A.C"
+    },
+    {
+      "image": "eyeliner.jpg",
+      "name": "Eyeliner",
+      "price": 159.99456789,
+      "article": "p4",
+      "available": true,
+      "category": "Artdeco"
+    },
+    {
+      "image": "mascara.jpg",
+      "name": "Mascara",
+      "price": 289.99456789,
+      "article": "p5",
+      "available": true,
+      "category":"Maybelline New York"
+    },
+    {
+      "image": "powder.jpg",
+      "name": "Powder",
+      "price": 399.99456789,
+      "article": "p6",
+      "available": true,
+      "category":"NARS"
+    },
+    {
+      "image": "blush.jpg",
+      "name": "Blush",
+      "price": 479.99456789,
+      "article": "p7",
+      "available": true,
+      "category": "Artdeco"
+    },
+    {
+      "image": "highlighter.jpg",
+      "name": "Highlighter",
+      "price": 1799.99456789,
+      "article": "p8",
+      "available": false,
+      "category": "Hourglass"
+    },
+    {
+      "image": "lipstick.jpg",
+      "name": "Lipstick",
+      "price": 699.99456789,
+      "article": "p9",
+      "available": true,
+      "category": "M.A.C"
+    }
+  ]
+}
